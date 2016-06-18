@@ -9,4 +9,4 @@ function myFunction(string) {
     document.getElementById("game").appendChild(node);
 }
 
-  myFunction();
+myFunction();
